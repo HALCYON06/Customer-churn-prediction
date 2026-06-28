@@ -1,0 +1,26 @@
+{
+  "Low": {
+    "n": 5393,
+    "event_rate": 0.0,
+    "median_days_to_churn": null,
+    "retention_at_max_tenure": 1.0
+  },
+  "Medium": {
+    "n": 10529,
+    "event_rate": 0.036,
+    "median_days_to_churn": null,
+    "retention_at_max_tenure": 0.893
+  },
+  "High": {
+    "n": 8137,
+    "event_rate": 0.966,
+    "median_days_to_churn": 554,
+    "retention_at_max_tenure": 0.0
+  },
+  "Critical": {
+    "n": 11770,
+    "event_rate": 1.0,
+    "median_days_to_churn": 534,
+    "retention_at_max_tenure": 0.0
+  }
+}

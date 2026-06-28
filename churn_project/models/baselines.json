@@ -1,0 +1,23 @@
+{
+  "gender": "M",
+  "region_category": "Village",
+  "membership_category": "Premium Membership",
+  "joined_through_referral": "No",
+  "preferred_offer_types": "Gift Vouchers/Coupons",
+  "medium_of_operation": "Both",
+  "internet_option": "Wi-Fi",
+  "used_special_discount": "Yes",
+  "offer_application_preference": "Yes",
+  "past_complaint": "No",
+  "complaint_status": "Not Applicable",
+  "feedback": "Reasonable Price",
+  "was_referred": "No",
+  "age": 15.0,
+  "days_since_last_login": 5.0,
+  "avg_time_spent": 730.035000000001,
+  "avg_transaction_value": 48802.36,
+  "avg_frequency_login_days": 6.0,
+  "points_in_wallet": 830.7090000000001,
+  "tenure_days": 985.0,
+  "last_visit_hour": 21.0
+}

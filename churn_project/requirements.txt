@@ -1,0 +1,11 @@
+# Python packages for the churn project.
+# Install all at once with:  python3 -m pip install -r requirements.txt
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+seaborn
+gradio
+# gradio 4.x (the last line that supports Python 3.9) needs huggingface_hub < 1.0
+huggingface_hub<1.0
